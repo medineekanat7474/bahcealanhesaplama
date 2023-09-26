@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bahcealanıhesaplama\bahcealanıhesaplama\obj\Debug\bahcealanıhesaplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bahcealanıhesaplama\bahcealanıhesaplama\obj\Debug\bahcealanıhesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\bahcealanıhesaplama\bahcealanıhesaplama\obj\Debug\bahcealanıhesaplama.Form1.resources
+C:\Users\User\source\repos\bahcealanıhesaplama\bahcealanıhesaplama\obj\Debug\bahcealanıhesaplama.Properties.Resources.resources
+C:\Users\User\source\repos\bahcealanıhesaplama\bahcealanıhesaplama\obj\Debug\bahcealanıhesaplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bahcealanıhesaplama\bahcealanıhesaplama\obj\Debug\bahcealanıhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bahcealanıhesaplama\bahcealanıhesaplama\bin\Debug\bahcealanıhesaplama.exe.config
+C:\Users\User\source\repos\bahcealanıhesaplama\bahcealanıhesaplama\bin\Debug\bahcealanıhesaplama.exe
+C:\Users\User\source\repos\bahcealanıhesaplama\bahcealanıhesaplama\bin\Debug\bahcealanıhesaplama.pdb
+C:\Users\User\source\repos\bahcealanıhesaplama\bahcealanıhesaplama\obj\Debug\bahcealanıhesaplama.exe
+C:\Users\User\source\repos\bahcealanıhesaplama\bahcealanıhesaplama\obj\Debug\bahcealanıhesaplama.pdb
